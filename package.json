@@ -1,0 +1,11 @@
+{
+    "name": "easyui",
+    "version": "1.0.0",
+    "description": "a framework easyui",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yuqiangcui/easyui.git"
+    },
+    "dependencies": {
+    }
+}
