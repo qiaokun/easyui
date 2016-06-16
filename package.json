@@ -2,6 +2,7 @@
     "name": "easyui",
     "version": "1.4.4",
     "description": "a framework easyui",
+    "main": "jquery.easyui.min.js",
     "repository": {
         "type": "git",
         "url": "https://github.com/yuqiangcui/easyui.git"
