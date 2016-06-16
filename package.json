@@ -6,6 +6,9 @@
         "type": "git",
         "url": "https://github.com/yuqiangcui/easyui.git"
     },
+    "scripts": {
+        "test": "gulp build:production"
+    },
     "dependencies": {
     }
 }
